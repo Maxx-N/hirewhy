@@ -1,6 +1,3 @@
-def main():
-    print("Hello from hirewhy!")
+from streamer import stream_compelling_case
 
-
-if __name__ == "__main__":
-    main()
+stream_compelling_case()
